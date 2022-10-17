@@ -120,6 +120,13 @@ article p {
     width: 30%;
 }
 
+/* Contact */
+
+.required:after {
+    content:" *";
+    color: red;
+}
+
 /* Footer */
 
 footer {
